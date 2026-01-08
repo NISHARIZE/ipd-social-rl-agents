@@ -1,0 +1,14 @@
+{
+  "social_learning_results": {
+    "total_training_time": 72.08434748649597,
+    "final_cooperation_rate": 0.1992,
+    "final_average_reward": 1.5353333333333332,
+    "average_reputation": 0.3149088474016438,
+    "total_imitations": 26971,
+    "comparison_with_baseline": {
+      "baseline_cooperation": 0.005,
+      "baseline_reward": 1.016,
+      "improvement_cooperation_percent": 3883.9999999999995
+    }
+  }
+}
